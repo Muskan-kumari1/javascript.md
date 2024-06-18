@@ -113,8 +113,47 @@
 
 
 
-# 7. 
-  
+# 7. How to use external Javascript?
+
+  > To use the pre-defined programs of any Javascript library.
+
+  > <script scr = "myscript.js"></script>
+
+
+
+
+  # 8. Functions in Javascript
+
+  > **important funtions of Javascript.**
+>1. alert() function
+>2. confirm() function
+>3. console.log() function
+>4. document.write() function
+>5. prompt() function
+> 
+
+>1. **alert() functioin**
+>:- It is used to alert the user that something has happened.
+
+   <script type = "text/javascript">
+     alert("Welcome to Ws cube");
+   </script>
+
+
+  >2. **confirm() function**
+>:- Opens up a confirm/cancel dialog and returns true/ false depending on user's click.
+
+
+>3. **console.log()**
+>:- Writes information to the browser console, good for debugging purposos.
+
+<script type = "text/javascript">
+  console.log("Wscube javascript tutorials");
+
+
+  >4. **document.write() function**
+    
+
 
  > `Console.log is used to log (print) a message to the console.`
 - Frist progarm in VS Code type in                                           

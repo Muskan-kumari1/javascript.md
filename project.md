@@ -9,15 +9,15 @@
 
 1.  What Is javascript
 2.  How to Set Up VsCode
-3. What can Javascript do?
-4. What makes Javascript unique?
-5. How to use Javascript with HTML?
-6. HOW to use internal Javascript?
+3.  What can Javascript do?
+4.  What makes Javascript unique?
+5.  How to use Javascript with HTML?
+6.  HOW to use internal Javascript?
 7.  How to use external Javascript?
 8.  Functions in Javascript
 9.  Variable in Javascript
-10.  Scope and Lite time of a variable
-11. What is an Operator and Type of Operators in Js
+10.     Scope and Lite time of a variable
+11.  What is an Operator and Type of Operators in Js
 12. String Concatenation in Javascript
 13. Function in Javascript
 14. Array in Javascript
@@ -29,14 +29,20 @@
     
 
 # 1.  What Is javascript
->JS is a programming language. We use it to give instructions to the computer.
 
-              Input (code)  ➡ Computer  ➡ Output
+> Javascript is an interpreted, client-side, event based, object-oritented scripting language.
+> 
+> Invented in 1995 at Netscape Carporation(Livescript).
+> 
+> Javascript programs are run by an interpreter built into the user's web browser.
+> 
+> It is a case-sensitive language.
 
-<br>
 
 
-# 2.  Setting Up VsCode
+
+# 2.  How to Set Up VsCode
+
 - Step 1:- Search on Google or Chrome Download VsCode.
 - Step 2:- click on the first link.
   
@@ -67,8 +73,48 @@
 ![30](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/578c03b6-b793-4d49-bf6d-34903a062d87)
 <br>
 
-# 3.  Our 1st JS Code
+# 3.  What can Javascript do?
 
+> Javascript can dynamically modify and HTML page.
+>
+> Javascript can vaildate user input Javascript can vaildate user input.
+>
+> Javascript can be used to create cookies.
+>
+> Javascript is a full-featured programming language.
+>
+> Javascript user interaction does not require any communication with the server.
+>
+
+
+
+# 4. What makes Javascript unique?
+
+> Support by all major browsers and enabled by default.
+>
+> Complex things are done simply.
+>
+> Full intergration with HTML/CSS.
+>
+
+
+
+# 5. How to use Javascript with HTML?
+# 6. HOW to use internal Javascript?
+
+> Javascript can be inserted into documents by using the SCRIPT tag.
+>
+> The SCRIPT tag provides a block to write the Javascript programs.
+>
+> <script type = "text/javascript">
+> //js code goes here
+<script>
+
+
+
+
+# 7. 
+  
 
  > `Console.log is used to log (print) a message to the console.`
 - Frist progarm in VS Code type in                                           

@@ -1,28 +1,32 @@
 
 ![29](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/147d20f3-6af5-4edd-b238-357fdf95dd5b)
 
-                                                                 Prem kumar
-                                                                 31/05/2024
+                                                                 
+                                                                 
 
 
 # Table of contents
 
 1.  What Is javascript
-2. Setting Up VsCode
-3. Our 1st JS Code
-4. Variables In Js
-5. Variable Rules
-6.  let, const & var
-7.  Data Types in Js
-8.  Comments in JS
-9.  Operators in JS
-10. Loops
-11. Strings in JS 
-12. String Methods in JS
-13. ARRAYS
-14. Functions
-15. Dom
-16. Events
+2.  How to Set Up VsCode
+3. What can Javascript do?
+4. What makes Javascript unique?
+5. How to use Javascript with HTML?
+6. HOW to use internal Javascript?
+7.  How to use external Javascript?
+8.  Functions in Javascript
+9.  Variable in Javascript
+10.  Scope and Lite time of a variable
+11. What is an Operator and Type of Operators in Js
+12. String Concatenation in Javascript
+13. Function in Javascript
+14. Array in Javascript
+15. Conditional Statement in Javascript
+16. Types of Conditional Statements in Javascipt
+17. Event Handling in Javascript
+18. API in Javascript 
+ 
+    
 
 # 1.  What Is javascript
 >JS is a programming language. We use it to give instructions to the computer.

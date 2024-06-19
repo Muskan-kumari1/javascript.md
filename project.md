@@ -17,7 +17,7 @@
 8.  Functions in Javascript
 9.  important funtions of Javascript
 10.  Variable in Javascript
-11.     Scope and Lite time of a variablethe HTML Element
+11.  Scope and Lite time of a variablethe HTML Element
 12. DOM(Document Object Method)  
 13.  What is an Operator and Type of Operators in Js
 14. String Concatenation in Javascript
@@ -85,8 +85,6 @@
 > Javascript is a full-featured programming language.
 >
 > Javascript user interaction does not require any communication with the server.
->
-
 
 
 # 4. What makes Javascript unique?
@@ -96,8 +94,6 @@
 > Complex things are done simply.
 >
 > Full intergration with HTML/CSS.
->
-
 
 
 # 5. How to use Javascript with HTML?
@@ -154,54 +150,57 @@
 >5. prompt() function
 > 
 
->1. **alert() functioin**
->:- It is used to alert the user that something has happened.
+**alert() functioin**
+* It is used to alert the user that something has happened.
 
    <script type = "text/javascript">
      alert("Welcome to Ws cube");
    </script>
 
 
-  >*. **confirm() function**
->:- Opens up a confirm/cancel dialog and returns true/ false depending on user's click.
+**confirm() function**
+  
+* Opens up a confirm/cancel dialog and returns true/ false depending on user's click.
 
 
->*. **console.log()**
->:- Writes information to the browser console, good for debugging purposos.
+**console.log()**
+* Writes information to the browser console, good for debugging purposos.
 
 <script type = "text/javascript">
-  console.log("Wscube javascript tutorials");
+  
+console.log("Wscube javascript tutorials");
 
+**document**
+  
+**write()** 
+  
+**function**
+  
+* document.write(): write directly to the HTML document.
 
-  >*. **document**.**write()** **function**
-    >:- document.write(): write directly to the HTML document.
-
-    <script type ="text/javascript">
-    document.write("Wscube Tech");
+<script type ="text/javascript">
+  
+document.write("Wscube Tech");
+  
 </script>
 
+**Prompt()** 
 
->*. **Prompt()** **function**
->:- Prompt(msg,default): create an dialogue for user input.
+**function**
+
+Prompt(msg,default): create an dialogue for user input.
 
 <script type ="text/javascript">
   prompt("hello","Wscube");
 </script>
 
-
-
     
  # 10. Variable in Javascript
 
- >**What is a Variable**?
->Variables are Containers which hold reusable data.
->
->It is the basic unit of storage in program.
->
-> The value stored in a variable can be changed during program execution.
->
-
-
+**What is a Variable**
+Variables are Containers which hold reusable data.
+It is the basic unit of storage in program.
+The value stored in a variable can be changed during program execution.
 
 # 11. Scope and Lite time of a variable
 
@@ -301,8 +300,9 @@
 
  
 ##  HTML to JavaScript connected.
-     </ Body>
+     <body>
        <script src=”index.js”></script>
+     </body>  
 
 ### HTML Code:-
 ![5](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c0385857-3afa-437f-85c2-6f2b3b8acf24)
@@ -361,9 +361,11 @@
   5. for-in   
 
 ## for Loop
-            for (let i = 1; i <= 5; i++) {
+   {
+           for (let i = 1; i <= 5; i++) 
             console.log("apna college");
-            } 
+   } 
+   
 ## Program              
  ![12](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/97c697ed-d168-4663-8d10-ba5bc90f4d42)
  ## output
@@ -382,13 +384,16 @@
 ![14](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f0e1b6d5-a8e8-40ad-9ec0-f69140192bfe)                 
 
 ## do-while Loop
+
          do{
           //do some work
          }while(condition);
+         
 ## Program              
 ![15](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f2a813e9-dbdd-4a61-916d-11d2f5372fcd)
  ## output
-![16](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6670e121-4910-4e43-b9fa-5f793eab2ecc)          
+![16](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6670e121-4910-4e43-b9fa-5f793eab2ecc)
+
 ## for-of Loop
            for (let key in objVar) {
            //do some work

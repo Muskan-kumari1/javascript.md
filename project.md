@@ -16,17 +16,16 @@
 7.  How to use external Javascript?
 8.  Functions in Javascript
 9.  Variable in Javascript
-10.     Scope and Lite time of a variablethe HTML
-11. DOM(Document Object Method)
-12. Put and Get data from 
-13.  What is an Operator and Type of Operators in Js
-14. String Concatenation in Javascript
-15. Function in Javascript
-16. Array in Javascript
-17. Conditional Statement in Javascript
-18. Types of Conditional Statements in Javascipt
-19. Event Handling in Javascript
-20. API in Javascript 
+10.     Scope and Lite time of a variablethe HTML Element
+11. DOM(Document Object Method)  
+12.  What is an Operator and Type of Operators in Js
+13. String Concatenation in Javascript
+14. Function in Javascript
+15. Array in Javascript
+16. Conditional Statement in Javascript
+17. Types of Conditional Statements in Javascipt
+18. Event Handling in Javascript
+19. API in Javascript 
  
     
 
@@ -186,13 +185,55 @@
 # 10. Scope and Lite time of a variable
 
 **Scope of a variable**
-*Variables declared within a function are local to that function.
-*Variables declared outside of any function are global variables.
+>*Variables declared within a function are local to that function.
+>*Variables declared outside of any function are global variables.
 
 
 **Life time of a variable**
-*Local variable's life time is within the block of it's declaration.
-*Global variable's life time is throughtout the program.
+>*Local variable's life time is within the block of it's declaration.
+>*Global variable's life time is throughtout the program.
+
+
+
+
+# 11. DOM(Document Object Method)
+
+> When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
+![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
+> 
+## Selecting with id
+- document.getElementById(“myld")
+- 
+## Selecting with class
+- document.getElementsByClass Name("myclass)
+- 
+## Selecting with tag
+- document.getElementsByTagName(“p”)
+- 
+## Properties
+-  tagName : returns tag for element nodes
+- innerText : returns the text content of the element and all its children
+- innerHTML : returns the plain text or HTML contents in the element  
+- textContent : returns textual content even for hidden elements. 
+
+
+
+
+# 12.  What is an Operator and Type of Operators in Js
+
+> **Operator**
+> :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
+
+
+>**Types**
+>1. Arithmetic Operators.
+>2. Logical Operators.
+>3. Ternary Operators.
+>4. Assignment Operators.
+>5. Comparison / Relational Operators.
+>   
+
+
 
 
  > `Console.log is used to log (print) a message to the console.`

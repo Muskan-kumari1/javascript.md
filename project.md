@@ -186,6 +186,9 @@ document.write("Wscube Tech");
 
 **Prompt()** 
 
+
+
+
 **function**
 
 Prompt(msg,default): create an dialogue for user input.
@@ -194,6 +197,8 @@ Prompt(msg,default): create an dialogue for user input.
   prompt("hello","Wscube");
 </script>
 
+
+
     
  # 10. Variable in Javascript
 
@@ -201,6 +206,9 @@ Prompt(msg,default): create an dialogue for user input.
 Variables are Containers which hold reusable data.
 It is the basic unit of storage in program.
 The value stored in a variable can be changed during program execution.
+
+
+
 
 # 11. Scope and Lite time of a variable
 

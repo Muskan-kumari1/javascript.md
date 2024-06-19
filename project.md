@@ -48,7 +48,7 @@
 - Step 2:- click on the first link.
   
   - VsCode Download :-
-  ![vs](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/98d9c8d4-e78f-4256-9e9d-2e471527787d)
+  ![vs](https://github.com/muskan181/JavaScript-Documentation/assets/162377025/98d9c8d4-e78f-4256-9e9d-2e471527787d)
 
 
 
@@ -281,6 +281,9 @@ The value stored in a variable can be changed during program execution.
 
 
 # 14. String Concatenation in Javascript
+>There are four methods in JavaScript for string concatenation: using the concat() method, using the '+' operator, using the array join() method, and using template literals.
+>![image](https://github.com/Muskan-kumari1/javascirpt.md/assets/171266857/491e4d29-5416-4cff-8100-3912d3eb4aeb)
+
 
 # 15. Array in Javascript
 
@@ -294,9 +297,13 @@ The value stored in a variable can be changed during program execution.
 >**What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
->**Types**
+
+
+># 17. Types of Conditional Statements in Javascipt
+ 
 >*If*
->
+
+
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNTsTY9y-PgEwcYLN8X0zSNXU2xotRxxNjw&s)
  

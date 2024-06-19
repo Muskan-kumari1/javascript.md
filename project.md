@@ -15,12 +15,12 @@
 6.  HOW to use internal Javascript?
 7.  How to use external Javascript?
 8.  Functions in Javascript
-9.  Variable in Javascript
-10.     Scope and Lite time of a variablethe HTML Element
-11. DOM(Document Object Method)  
-12.  What is an Operator and Type of Operators in Js
-13. String Concatenation in Javascript
-14. Function in Javascript
+9.  important funtions of Javascript
+10.  Variable in Javascript
+11.     Scope and Lite time of a variablethe HTML Element
+12. DOM(Document Object Method)  
+13.  What is an Operator and Type of Operators in Js
+14. String Concatenation in Javascript
 15. Array in Javascript
 16. Conditional Statement in Javascript
 17. Types of Conditional Statements in Javascipt
@@ -124,8 +124,29 @@
 
 
   # 8. Functions in Javascript
+  
+>**Function**
+> Functions are group of code or program which is used more often.
+>It leads programming to code resusability and clear code.
+>
+>
+>**Types**
+>1. Pre defined Function.
+>2. User defined Function.
+>
+>
+>**1.Pre defined Function**.
+>:- Such functions one defined at the time of making of any language.
 
-  > **important funtions of Javascript.**
+
+**2.User defined Function**.
+>:- Such function are defined by users according to their needs.
+
+
+
+
+   # 9. important funtions of Javascript.
+   
 >1. alert() function
 >2. confirm() function
 >3. console.log() function
@@ -141,18 +162,18 @@
    </script>
 
 
-  >2. **confirm() function**
+  >*. **confirm() function**
 >:- Opens up a confirm/cancel dialog and returns true/ false depending on user's click.
 
 
->3. **console.log()**
+>*. **console.log()**
 >:- Writes information to the browser console, good for debugging purposos.
 
 <script type = "text/javascript">
   console.log("Wscube javascript tutorials");
 
 
-  >4. **document**.**write()** **function**
+  >*. **document**.**write()** **function**
     >:- document.write(): write directly to the HTML document.
 
     <script type ="text/javascript">
@@ -160,7 +181,7 @@
 </script>
 
 
->5. **Prompt()** **function**
+>*. **Prompt()** **function**
 >:- Prompt(msg,default): create an dialogue for user input.
 
 <script type ="text/javascript">
@@ -170,7 +191,7 @@
 
 
     
- # 9. Variable in Javascript
+ # 10. Variable in Javascript
 
  >**What is a Variable**?
 >Variables are Containers which hold reusable data.
@@ -182,7 +203,7 @@
 
 
 
-# 10. Scope and Lite time of a variable
+# 11. Scope and Lite time of a variable
 
 **Scope of a variable**
 >*Variables declared within a function are local to that function.
@@ -196,7 +217,7 @@
 
 
 
-# 11. DOM(Document Object Method)
+# 12. DOM(Document Object Method)
 
 > When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
 ![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
@@ -219,7 +240,7 @@
 
 
 
-# 12.  What is an Operator and Type of Operators in Js
+# 13.  What is an Operator and Type of Operators in Js
 
 > **Operator**
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
@@ -231,43 +252,54 @@
 >3. Ternary Operators.
 >4. Assignment Operators.
 >5. Comparison / Relational Operators.
->   
+>
+>
+>**1. Artithmetic Operators**.
+>Javascript arithmetic operators are used to perform mathematical calculations between variables and/or values.
+>These include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), increment (++), and decrement (--).
+
+
+>**2. Logical Operators.**
+>An operator that performs a logic operation on nodes, groups, or numbers.
+> AHDL logical operators are NOT ( ! ), AND ( & ), NAND ( !& ), OR ( # ), NOR ( !# ), XOR ( $ ), and XNOR ( !$ ).
+
+
+>**3. Ternary Operators**.
+>An alternative to the if/else statement, the ternary operator allows JavaScript developers to write concise conditional statements.
+> It is written as “?:” and takes three operands; a logical condition, a value to return if true, and a value to return if false.
+
+
+>**4. Assignment Operators.**.
+>An assignment operator assigns a value to its left operand based on the value of its right operand.
+> The simple assignment operator is equal ( = ), which assigns the value of its right operand to its left operand.
+
+
+>**5. Comparison / Relational Operators.**
+>Relational operators compare two operands and return true or false depending on the validity of the comparison.
+>The most common relational operators are: > (greater than) < (less than)
 
 
 
 
- > `Console.log is used to log (print) a message to the console.`
-- Frist progarm in VS Code type in                                           
-- Console.log(“Hello”);
-- Console.log(‘Hello’);
-- ➡️  Go to Google and inspect the console and run the program.
+# 14. String Concatenation in Javascript
 
-![2](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/d45fc2e8-9565-46a1-82e6-607c2b82d0b8)
+# 15. Array in Javascript
 
--  ➡️  Go to Google and inspect the console and run the program.
-
--   ➡️    VS code program run.
-  
- ![3](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1a7bab0c-dda9-42c2-923f-8fa879f2339c) 
-
--  To run JavaScript programs on the browser.
--  You will have to create a HTML file.
+>An array in JavaScript is a type of global object that is used to store data.
+>Arrays consist of an ordered collection or list containing zero or more data types, and use numbered indices starting from 0 to access specific items.
 
 
 
 
- ## ➡️    HTML :-
-        HTML   ➡  Hypertext Markup Language
+# 16. Conditional Statement in Javascript
+>**What are Conditional Statement**
+> Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
-- ➡️ Diagram connected to JavaScript browser.
-  
+>**Types**
+>*If*
+>
 
-
-                  HTML <--> BROWSER  <--> JavaScript
-                       <-----------------> 
-                       
-![4](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/69184b25-b447-44ab-9e97-ba338511bf34)                                 
-
+ 
 ##  HTML to JavaScript connected.
      </ Body>
        <script src=”index.js”></script>

@@ -151,8 +151,39 @@
   console.log("Wscube javascript tutorials");
 
 
-  >4. **document.write() function**
+  >4. **document**.**write()** **function**
+    >:- document.write(): write directly to the HTML document.
+
+    <script type ="text/javascript">
+    document.write("Wscube Tech");
+</script>
+
+
+>5. **Prompt()** **function**
+>:- Prompt(msg,default): create an dialogue for user input.
+
+<script type ="text/javascript">
+  prompt("hello","Wscube");
+</script>
+
+
+
     
+ # 9. Variable in Javascript
+
+ >**What is a Variable**?
+>Variables are Containers which hold reusable data.
+>
+>It is the basic unit of storage in program.
+>
+> The value stored in a variable can be changed during program execution.
+>
+
+
+
+# 10. Scope and Lite time of a variable
+
+>
 
 
  > `Console.log is used to log (print) a message to the console.`

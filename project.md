@@ -339,14 +339,18 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
 
 # 19. API in Javascript 
 
-An API stands for "Application Programming Interface". It's a way for two different programs, or software components, to communicate with each other.
-APIs define the protocols and rules for how one component should interact with the other.
+> An API stands for "Application Programming Interface". It's a way for two different programs, or software components, to communicate with each other.
+> APIs define the protocols and rules for how one component should interact with the other.
 
-  # LOOP IN JS
+
+
+
+  # 20. LOOP IN JS
  
-  # 10. Loop
-  - Loops are used to execute a piece of code again & again.
-
+  **Loop**
+> Loops are handy, if you want to run the same code over and over again, each time with a different value.
+>
+> **Types of Loop**
   1. for Loop 
   2. while Loops
   3. do-while loop
@@ -403,68 +407,15 @@ APIs define the protocols and rules for how one component should interact with t
 ![19](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/95ce9af5-cb96-4bc1-b7bd-8c44af072d73)
  ## output
 ![20](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/0d813ef3-3b5e-4b95-9687-280c269c419f)
-#  11. Strings in JS 
-- String is a sequence of characters used to repreesent text.            
-### Create String
-         let str = "Hello";
-### String Length  
-                  str.length
-### String Indices
-              str[0], str[1], str[2] 
 
-## Program              
-![21](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/59cf1cb5-635c-4b46-9249-727c89173f95)
- ## output
-![22](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6f936345-68f1-41e3-98d7-9b5b90cb69dd)  
- #  12. String Methods in JS   
- - These are built-in functions to manipulate a string.  
- - str.toUpperCase( )
-- str.toLowerCase( ) 
-- str.trim( )    // removes whitespaces 
-- str.slice(start, end?) // returns part of string
-- str1.concat( str2 ) //joins str2 with str1
-- str.replace( searchVal,newval)
-- str.charAt( idx ) 
-## Program              
-![23](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fbf43c66-cd78-4e02-b264-d7b76cadffa3)
- ## output
-![24](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c2edbfd4-5832-45e4-8987-bc007bd8125b)  
-#  13. Array  
-- Collections of items.
-### Create Array
-- let heroes = [ “ironman”, “hulk”, “thor”, “batman” ];
-- let marks = [ 96, 75, 48, 83, 66 ];
-- let info = [ “rahul”, 86, “Delhi” ];
-### Array Indices
-- arr[0], arr[1], arr[2] ....
-## Program              
-![25](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a14860a8-5129-409d-9dd8-df0ffd4895fd)
- ## output
-![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
-### Array Methods
-                  Push( ) : add to end
+
+
+  # Thank you!
             .  
-# 16. Event
-- The change in the state of an object is known as an Event.
-- Events are fired to notify code of "interesting changes" that may affect code execution.
-- Mouse events (click, double click etc.)
-- Keyboard events (keypress, keyup, keydown)
-- Form events (submit etc.)
-- Print event & many more
 
-                           node.event = ( ) => {
-                           //handle here
-                            }
-                            example
-                                btn.onclick = ( ) => {
-                             console.log(“btn was clicked”);
-                                  }
 
-# Conclusion  
-- JavaScript has solidified its position as a fundamental technology in modern web development. Its ability to create dynamic and interactive user experiences has transformed the web from static pages to vibrant, responsive applications. The language's versatility, from client-side scripting to server-side applications using Node.js, underscores its importance in the tech ecosystem.
 
-- In conclusion, mastering JavaScript is essential for anyone looking to excel in web development. Its widespread adoption and continuous improvements make it a crucial skill for developers aiming to create modern, interactive, and efficient web applications.
-# Reference Link                                
-## [JavaScript Link:-](https://www.youtube.com/watch?v=VlPiVmYuoqw&t=29691s)
 
-# Thank You!
+
+
+

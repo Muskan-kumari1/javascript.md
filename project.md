@@ -24,9 +24,9 @@
 15. Array in Javascript
 16. Conditional Statement in Javascript
 17. Types of Conditional Statements in Javascipt
-18. Event Handling in Javascript
+ 18. Event Handling in Javascript   
 19. API in Javascript 
- 
+ 20. Loop in Javascript
     
 
 # 1.  What Is javascript
@@ -110,7 +110,7 @@
 
 
 
-# 7. How to use external Javascript?
+#7. How to use external Javascript?
 
   > To use the pre-defined programs of any Javascript library.
 
@@ -299,63 +299,48 @@ The value stored in a variable can be changed during program execution.
 
 
 
-># 17. Types of Conditional Statements in Javascipt
+> # 17. Types of Conditional Statements in Javascipt
  
->*If*
+>**If**
+>:- If proved true, performs a function or displays information.
 
+>**If-else**
+>:- It proved true, performs a task.
+>If false performs any other task.
+
+>**If-elseif**
+>:- If proved true, performs a task.
+>If false checks another if condition.
 
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNTsTY9y-PgEwcYLN8X0zSNXU2xotRxxNjw&s)
  
-##  HTML to JavaScript connected.
-     <body>
-       <script src=”index.js”></script>
-     </body>  
-
-### HTML Code:-
-![5](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/c0385857-3afa-437f-85c2-6f2b3b8acf24)
-
-### JS Code:-
-![6](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/fcfec36d-45ab-480f-ba47-11c06d1ba61e)
-### Output:-
-![7](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/566386d8-10ae-4d0c-8f2f-86e9cda2d2fc)
-# 4. Variables In Js
-- Variables are containers for data.
-# 5.Variable Rules
-- Variable names are case sensitive; “a” & “A” is different.
-- Only letters, digits, underscore( _ ) and $ is allowed. (not even space)
-- Only a letter, underscore( _ )or $ should be 1st character.
-- Reserved words cannot be variable names.
-# 6. let, const & var
-- **var** :- Variable can be re-declared & updated. A global scope variable.
-- **let** :- Variable cannot be re-declared but can be updated. A block scope variable.
-- **const** : Variable cannot be re-declared or updated. A block scope variable.
-# 7.Data Types in JS 
-- **Primitive Types** : Number, String, Boolean, Undefined, Null, BigInt, Symbol
-  
-# 8. Comments in JS
-` //This is a single line comment`
-<br>
-`/* This is a multi-line comment.*/`
-
-<br>
-
-![8](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/a74490eb-2660-4a0a-924b-0fd9641e383d)
 
 
-# 9.Operators in JS
-- Used to perform some operation on data.
-  
-       Arithmetic Operators
-          +, -, *, /
--  Modulus (+)
--  Exponentiation (-)
--  Increment (*)
--  Decrement (/)
-  ## program:-
-![10](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/803639ac-41dc-4bb6-96a1-9de13ebf0044)
-  ## output:-
- ![9](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/34f0c66a-a96c-472f-8bb7-2d8242756492)
+
+# 18.Event Handling in Javascript   
+
+ >**Event Handling**
+> When an event, consider pressing a keyboard key or clicking an element, occurs on a DOM or an HTML element, we can call the specific functions based on these events. Now, how does the HTML element know when to call the mentioned JavaScript code or JavaScript function? This is taken care of by the event handlers. The properties of DOM or HTML elements are called event handlers to control how an element should respond to a given event.
+>The concept and operation of event handlers are summarised in the figure below:
+
+**event-and-event-handlers**
+
+> As shown in the above figure, when a user clicks a specific mouse button or types a specific keyword into the browser, that action activates the corresponding event handler for that HTML  element. The browser then shows the end users the effects of the actions that were carried out on the webpage by the JavaScript code that was executed by the event handler.
+
+Event handlers can be assigned directly using the equal (=) operator because they are attributes of HTML/DOM elements as well. The syntax is as follows:
+
+**Syntax:**
+
+name_of_EventHandler = "The javaScript code / function which is required to be executed"
+
+
+
+
+# 19. API in Javascript 
+
+An API stands for "Application Programming Interface". It's a way for two different programs, or software components, to communicate with each other.
+APIs define the protocols and rules for how one component should interact with the other.
 
   # LOOP IN JS
  
@@ -458,79 +443,7 @@ The value stored in a variable can be changed during program execution.
 ![26](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/31a2d933-d9fa-47fb-87eb-25d4ef138bb4)
 ### Array Methods
                   Push( ) : add to end
-                  Pop( ) : delete from end & return
-                  toString( ) : converts array to string
-                  Concat( ) : joins multiple arrays & returns result
-                  Unshift( ) : add to start
-                  shift( ) : delete from start & return
-                  Slice( ) : returns a piece of the array
-                  Splice( ) : change original array(add,remove,replace)
-
-# 14. Functions 
-- Block of code that performs a specific task, can be invoked whenever needed               
-### Function Definition
-                     function functionName( ) {
-                      //do some work
-                     }
-
-### Function Call
-                  functionName( );
-
--  Compact way of writing a function.
-
-                       const sum =(a,b)=>{
-                        return a+b;
-                       }
-### forEach Loop in Arrays
--  arr.forEach( callBackFunction )    
--  CallbackFunction : Here, it is a function to execute for each element in the array.
-- *A callback is a function passed as an argument to another function.
-
-                            arr.forEach( ( val ) => {
-                             console.log(val);
-                              })                        
-
-
-###  Map   
-- Creates a new array with the results of some operation. The value its callback returns are
-used to form new array.
-- arr.map( callbackFnx( value, index, array))
-               
-                                   let newArr = arr.map( ( val ) => {
-                                  return val * 2;
-                                   })
-                                
-###  Filter 
-- Creates a new array of elements that give true for a condition/filter.
-Eg: all even elements.
-
-                             let newArr = arr.filter( ( ( val )) => {
-                              return val % 2 === 0;
-                               })  
-
-
-
-
-
-###  Reduce  
-- Performs some operations & reduces the array to a single value. It returns
-that single value.
-
-# 15. DOM
-## What is DOM?
-- When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
-![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
-## Selecting with id
-- document.getElementById(“myld")
-## Selecting with class
-- document.getElementsByClass Name("myclass)
-## Selecting with tag
-- document.getElementsByTagName(“p”)
-## Properties
--  tagName : returns tag for element nodes
-- innerText : returns the text content of the element and all its children
-- innerHTML : returns the plain text or HTML contents in the element  
-- textContent : returns textual content even for hidden elements.  
+            .  
 # 16. Event
 - The change in the state of an object is known as an Event.
 - Events are fired to notify code of "interesting changes" that may affect code execution.

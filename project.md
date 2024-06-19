@@ -16,15 +16,17 @@
 7.  How to use external Javascript?
 8.  Functions in Javascript
 9.  Variable in Javascript
-10.     Scope and Lite time of a variable
-11.  What is an Operator and Type of Operators in Js
-12. String Concatenation in Javascript
-13. Function in Javascript
-14. Array in Javascript
-15. Conditional Statement in Javascript
-16. Types of Conditional Statements in Javascipt
-17. Event Handling in Javascript
-18. API in Javascript 
+10.     Scope and Lite time of a variablethe HTML
+11. DOM(Document Object Method)
+12. Put and Get data from 
+13.  What is an Operator and Type of Operators in Js
+14. String Concatenation in Javascript
+15. Function in Javascript
+16. Array in Javascript
+17. Conditional Statement in Javascript
+18. Types of Conditional Statements in Javascipt
+19. Event Handling in Javascript
+20. API in Javascript 
  
     
 
@@ -183,7 +185,14 @@
 
 # 10. Scope and Lite time of a variable
 
->
+**Scope of a variable**
+*Variables declared within a function are local to that function.
+*Variables declared outside of any function are global variables.
+
+
+**Life time of a variable**
+*Local variable's life time is within the block of it's declaration.
+*Global variable's life time is throughtout the program.
 
 
  > `Console.log is used to log (print) a message to the console.`

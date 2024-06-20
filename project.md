@@ -1,5 +1,6 @@
+# JavaScript
 
-![29](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/147d20f3-6af5-4edd-b238-357fdf95dd5b)
+![29](https://wpengine.com/wp-content/uploads/2021/07/jsheader-1024x535.png)
 
                                                                  
                                                                  
@@ -97,25 +98,36 @@
 
 
 # 5. How to use Javascript with HTML?
+
+>You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code.
+>
+>The <script> tag can be placed in the <head> section of your HTML or in the <body> section, depending on when you want the JavaScript to load.
+>
+>Generally, JavaScript code can go inside the document <head> section in order to keep it contained and out of the main content of your HTML document.
+>
+>However, if your script needs to run at a certain point within a page’s layout when using document.write() to generate content, you should put it at the point where it should be called, usually within the <body> section.
+
 # 6. HOW to use internal Javascript?
 
 > Javascript can be inserted into documents by using the SCRIPT tag.
 >
 > The SCRIPT tag provides a block to write the Javascript programs.
 >
-> <script type = "text/javascript">
-> //js code goes here
-<script>
-
+  ```js
+  <script type = "text/javascript">
+  //js code goes here
+  <script>
+  ```
 
 
 
 #7. How to use external Javascript?
 
-  > To use the pre-defined programs of any Javascript library.
+   To use the pre-defined programs of any Javascript library.
 
-  > <script scr = "myscript.js"></script>
-
+  ```js
+  <script scr = "myscript.js"></script>
+  ```
 
 
 
@@ -152,11 +164,12 @@
 
 **alert() functioin**
 * It is used to alert the user that something has happened.
-
-   <script type = "text/javascript">
-     alert("Welcome to Ws cube");
-   </script>
-
+  
+  ```js
+     <script type = "text/javascript">
+       alert("Welcome to Ws cube");
+     </script>
+  ```
 
 **confirm() function**
   
@@ -166,10 +179,11 @@
 **console.log()**
 * Writes information to the browser console, good for debugging purposos.
 
-<script type = "text/javascript">
+  ```js
+  <script type = "text/javascript">
   
-console.log("Wscube javascript tutorials");
-
+  console.log("Wscube javascript tutorials");
+  ```
 **document**
   
 **write()** 
@@ -177,12 +191,14 @@ console.log("Wscube javascript tutorials");
 **function**
   
 * document.write(): write directly to the HTML document.
-
-<script type ="text/javascript">
   
-document.write("Wscube Tech");
-  
-</script>
+  ```js
+  <script type ="text/javascript">
+    
+  document.write("Wscube Tech");
+    
+  </script>
+  ```
 
 **Prompt()** 
 
@@ -193,9 +209,11 @@ document.write("Wscube Tech");
 
 Prompt(msg,default): create an dialogue for user input.
 
-<script type ="text/javascript">
-  prompt("hello","Wscube");
-</script>
+  ```js
+  <script type ="text/javascript">
+    prompt("hello","Wscube");
+  </script>
+  ```
 
 
 

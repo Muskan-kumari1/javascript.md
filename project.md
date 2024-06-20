@@ -67,12 +67,12 @@
 - Step 6. Open VS Code.          
 
 
-![1](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/50dff81d-7031-4764-ae73-cf8b09530332)
+![1](https://code.visualstudio.com/assets/updates/1_68/translations-core.png)
 
 - Step 6:- Create a new file.
 
  
-![30](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/578c03b6-b793-4d49-bf6d-34903a062d87)
+![30](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxnhb4rnchxhywu05f7a.gif)
 <br>
 
 # 3.  What can Javascript do?

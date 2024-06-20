@@ -430,8 +430,8 @@ do {
 }
  ## output
  do-while Loop
->0
->1
+>* 0
+>* 1
 >2
 >3
 >4   

@@ -31,22 +31,14 @@
     
 
 # 1.  What Is javascript
-
-> Javascript is an interpreted, client-side, event based, object-oritented scripting language.
-> 
-> Invented in 1995 at Netscape Corporation(Livescript).
-> 
-> Javascript programs are run by an interpreter built into the user's web browser.
-> 
-> It is a case-sensitive language.
-
-
+* Javascript is an interpreted, client-side, event based, object-oritented scripting language. Invented in 1995 at Netscape Corporation(Livescript).
+* Javascript programs are run by an interpreter built into the user's web browser.
+* It is a case-sensitive language.
 
 
 # 2.  How to Set Up VsCode
-
-- Step 1:- Search on Google or Chrome Download VsCode.
-- Step 2:- click on the first link.
+Step 1:- Search on Google or Chrome Download VsCode.
+Step 2:- click on the first link.
   
   - VsCode Download :-
   ![vs](https://code.visualstudio.com/assets/updates/1_68/vscode-dev-download.png)
@@ -77,8 +69,8 @@
 
 # 3.  What can Javascript do?
 
-> Javascript can dynamically modify and HTML page.
->
+ Javascript can dynamically modify and HTML page.
+
 > Javascript can vaildate user input Javascript can vaildate user input.
 >
 > Javascript can be used to create cookies.
@@ -472,10 +464,7 @@ John Doe 25
 In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 
 This exercise not only demonstrated the power of combining these three technologies but also emphasized key programming concepts such as:
 
-
-
-  # Thank you!
-            .  
+## Thank you!
 
 
 

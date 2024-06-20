@@ -474,7 +474,7 @@ This exercise not only demonstrated the power of combining these three technolog
 
 
 
-  # Thank you
+  # Thank you!
             .  
 
 

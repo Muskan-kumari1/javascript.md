@@ -430,11 +430,11 @@ do {
 }
  ## output
  do-while Loop
-0
-1
-2
-3
-4   
+>0
+>1
+>2
+>3
+>4   
 
 ## for-of Loop
            for (let key in objVar) {

@@ -121,7 +121,7 @@
 
 
 
-#7. How to use external Javascript?
+# 7. How to use external Javascript?
 
    To use the pre-defined programs of any Javascript library.
 
@@ -184,11 +184,7 @@
   
   console.log("Wscube javascript tutorials");
   ```
-**document**
-  
-**write()** 
-  
-**function**
+**document.write() function**
   
 * document.write(): write directly to the HTML document.
   
@@ -200,12 +196,7 @@
   </script>
   ```
 
-**Prompt()** 
-
-
-
-
-**function**
+**Prompt() function**
 
 Prompt(msg,default): create an dialogue for user input.
 
@@ -267,11 +258,11 @@ The value stored in a variable can be changed during program execution.
 
 # 13.  What is an Operator and Type of Operators in Js
 
-> **Operator**
+**Operator**
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
 
 
->**Types**
+**Types**
 >1. Arithmetic Operators.
 >2. Logical Operators.
 >3. Ternary Operators.
@@ -279,27 +270,27 @@ The value stored in a variable can be changed during program execution.
 >5. Comparison / Relational Operators.
 >
 >
->**1. Artithmetic Operators**.
+**1. Artithmetic Operators**.
 >Javascript arithmetic operators are used to perform mathematical calculations between variables and/or values.
 >These include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), increment (++), and decrement (--).
 
 
->**2. Logical Operators.**
+**2. Logical Operators.**
 >An operator that performs a logic operation on nodes, groups, or numbers.
 > AHDL logical operators are NOT ( ! ), AND ( & ), NAND ( !& ), OR ( # ), NOR ( !# ), XOR ( $ ), and XNOR ( !$ ).
 
 
->**3. Ternary Operators**.
+**3. Ternary Operators**.
 >An alternative to the if/else statement, the ternary operator allows JavaScript developers to write concise conditional statements.
 > It is written as “?:” and takes three operands; a logical condition, a value to return if true, and a value to return if false.
 
 
->**4. Assignment Operators.**.
+**4. Assignment Operators.**.
 >An assignment operator assigns a value to its left operand based on the value of its right operand.
 > The simple assignment operator is equal ( = ), which assigns the value of its right operand to its left operand.
 
 
->**5. Comparison / Relational Operators.**
+**5. Comparison / Relational Operators.**
 >Relational operators compare two operands and return true or false depending on the validity of the comparison.
 >The most common relational operators are: > (greater than) < (less than)
 
@@ -320,21 +311,21 @@ The value stored in a variable can be changed during program execution.
 
 
 # 16. Conditional Statement in Javascript
->**What are Conditional Statement**
+
+**What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
 
-
-> # 17. Types of Conditional Statements in Javascipt
+# 17. Types of Conditional Statements in Javascipt
  
->**If**
+**If**
 >:- If proved true, performs a function or displays information.
 
->**If-else**
+**If-else**
 >:- It proved true, performs a task.
 >If false performs any other task.
 
->**If-elseif**
+**If-elseif**
 >:- If proved true, performs a task.
 >If false checks another if condition.
 
@@ -346,7 +337,7 @@ The value stored in a variable can be changed during program execution.
 
 # 18.Event Handling in Javascript   
 
- >**Event Handling**
+**Event Handling**
 > When an event, consider pressing a keyboard key or clicking an element, occurs on a DOM or an HTML element, we can call the specific functions based on these events. Now, how does the HTML element know when to call the mentioned JavaScript code or JavaScript function? This is taken care of by the event handlers. The properties of DOM or HTML elements are called event handlers to control how an element should respond to a given event.
 >The concept and operation of event handlers are summarised in the figure below:
 

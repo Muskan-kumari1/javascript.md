@@ -236,7 +236,7 @@ The value stored in a variable can be changed during program execution.
 # 12. DOM(Document Object Method)
 
 > When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
-![27](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/1394c0a1-4745-4060-b441-f9dd7a1e71ef)
+
 > 
 ## Selecting with id
 - document.getElementById(“myld")

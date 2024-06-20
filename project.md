@@ -427,7 +427,7 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
 
 
 
-  # Thank you!
+  # Thank you
             .  
 
 

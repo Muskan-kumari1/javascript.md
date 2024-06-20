@@ -143,7 +143,7 @@
 >2. User defined Function.
 >
 >
->**1.Pre defined Function**.
+**1.Pre defined Function**.
 >:- Such functions one defined at the time of making of any language.
 
 

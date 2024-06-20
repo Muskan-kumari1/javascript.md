@@ -34,7 +34,7 @@
 
 > Javascript is an interpreted, client-side, event based, object-oritented scripting language.
 > 
-> Invented in 1995 at Netscape Carporation(Livescript).
+> Invented in 1995 at Netscape Corporation(Livescript).
 > 
 > Javascript programs are run by an interpreter built into the user's web browser.
 > 

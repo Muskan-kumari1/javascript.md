@@ -1,1 +1,1 @@
-# javascirpt.md
+# javascript.md

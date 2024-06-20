@@ -376,14 +376,18 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
 
 ## for Loop
    {
-           for (let i = 1; i <= 5; i++) 
-            console.log("apna college");
+           
+           for (int i = 1; i <= 5; i++) 
+            console.log("Hello world");
+            
    } 
+   # Output 
+   Hello world
+   Hello world
+   Hello world
+   Hello world
+   Hello world
    
-## Program              
- ![12](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/97c697ed-d168-4663-8d10-ba5bc90f4d42)
- ## output
-![11](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6a8f88ae-a996-459a-a58b-8595ae0e3869)
 
  ## Infinite Loop:- 
 -  A Loop that never ends.
@@ -392,10 +396,24 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
                 while (condition) {
                 // do some work
                      }
+                     
 ## Program              
-![13](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/cf7a5c68-1f88-42ad-a45f-557154fc17c8)
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
+}
  ## output
-![14](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f0e1b6d5-a8e8-40ad-9ec0-f69140192bfe)                 
+while Loop
+The number is 0
+The number is 1
+The number is 2
+The number is 3
+The number is 4
+The number is 5
+The number is 6
+The number is 7
+The number is 8
+The number is 9
 
 ## do-while Loop
 
@@ -404,26 +422,56 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
          }while(condition);
          
 ## Program              
-![15](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/f2a813e9-dbdd-4a61-916d-11d2f5372fcd)
+let text = "";
+let i = 0;
+do {
+  text += i + "<br>";
+  i++;
+}
  ## output
-![16](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/6670e121-4910-4e43-b9fa-5f793eab2ecc)
+ do-while Loop
+0
+1
+2
+3
+4   
 
 ## for-of Loop
            for (let key in objVar) {
            //do some work
              }
 ## Program              
-![17](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/558963b0-7441-4b73-a222-4613c43efbe4)
+const cars = ["BMW", "Volvo", "Mini"];
+
+let text = "";
+for (let x of cars) {
+  text += x;
+}
  ## output
-![18](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/b0ef67eb-741d-4dfe-af57-72f43b3028de) 
+ The for of statement loops through the values of any iterable object:
+
+BMW
+Volvo
+Mini
 ## for-in Loop
               for (let key in objVar) {
                 //do some work
                  }         
 ## Program              
-![19](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/95ce9af5-cb96-4bc1-b7bd-8c44af072d73)
+const person = {fname:"John", lname:"Doe", age:25};
+
+let text = "";
+for (let x in person) {
+  text += person[x];
+}
  ## output
-![20](https://github.com/Remraj181/JavaScript-Documentation/assets/162377025/0d813ef3-3b5e-4b95-9687-280c269c419f)
+The for in statement loops through the properties of an object:
+
+John Doe 25
+
+ ## Conclusion
+In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 
+This exercise not only demonstrated the power of combining these three technologies but also emphasized key programming concepts such as:
 
 
 

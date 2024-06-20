@@ -48,7 +48,7 @@
 - Step 2:- click on the first link.
   
   - VsCode Download :-
-  ![vs](https://github.com/muskan181/JavaScript-Documentation/assets/162377025/98d9c8d4-e78f-4256-9e9d-2e471527787d)
+  ![vs](https://code.visualstudio.com/assets/updates/1_68/vscode-dev-download.png)
 
 
 

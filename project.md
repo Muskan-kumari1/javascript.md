@@ -6,7 +6,7 @@
                                                                  
 
 
-# Table of contents
+## Table of contents##
 
 1.  What Is javascript
 2.  How to Set Up VsCode

@@ -239,13 +239,13 @@ The value stored in a variable can be changed during program execution.
 > 
 ## Selecting with id
 - document.getElementById(“myld")
-- 
+  
 ## Selecting with class
 - document.getElementsByClass Name("myclass)
 - 
 ## Selecting with tag
 - document.getElementsByTagName(“p”)
-- 
+
 ## Properties
 -  tagName : returns tag for element nodes
 - innerText : returns the text content of the element and all its children

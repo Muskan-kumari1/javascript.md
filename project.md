@@ -9,24 +9,24 @@
 ## Table of contents##
 
 1. What Is javascript.
-2.  How to Set Up VsCode
+2.  How to Set Up VsCode.
 3.  What can Javascript do?
 4.  What makes Javascript unique?
 5.  How to use Javascript with HTML?
 6.  HOW to use internal Javascript?
 7.  How to use external Javascript?
-8.  Functions in Javascript
-9.  important funtions of Javascript
-10.  Variable in Javascript
-11.  Scope and Lite time of a variablethe HTML Element
-12. DOM(Document Object Method)  
-13.  What is an Operator and Type of Operators in Js
-14. String Concatenation in Javascript
-15. Array in Javascript
-16. Conditional Statement in Javascript
-17. Types of Conditional Statements in Javascipt
- 18. Event Handling in Javascript   
- 19. Loop in Javascript
+8.  Functions in Javascript.
+9.  important funtions of Javascript.
+10.  Variable in Javascript.
+11.  Scope and Lite time of a variablethe HTML Element.
+12. DOM(Document Object Method) . 
+13.  What is an Operator and Type of Operators in Js.
+14. String Concatenation in Javascript.
+15. Array in Javascript.
+16. Conditional Statement in Javascript.
+17. Types of Conditional Statements in Javascipt.
+ 18. Event Handling in Javascript.   
+ 19. Loop in Javascript.
     
 
 # 1.  What Is javascript

@@ -8,7 +8,7 @@
 
 ## Table of contents##
 
-1. - [What Is javascript] (#What Is javascript)
+1. - [What Is javascript] (# What Is javascript)
 2.  How to Set Up VsCode
 3.  What can Javascript do?
 4.  What makes Javascript unique?

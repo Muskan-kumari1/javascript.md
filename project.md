@@ -242,7 +242,7 @@ The value stored in a variable can be changed during program execution.
   
 ## Selecting with class
 - document.getElementsByClass Name("myclass)
-- 
+  
 ## Selecting with tag
 - document.getElementsByTagName(“p”)
 

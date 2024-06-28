@@ -26,8 +26,7 @@
 16. Conditional Statement in Javascript
 17. Types of Conditional Statements in Javascipt
  18. Event Handling in Javascript   
-19. API in Javascript 
- 20. Loop in Javascript
+ 19. Loop in Javascript
     
 
 # 1.  What Is javascript
@@ -348,20 +347,14 @@ Event handlers can be assigned directly using the equal (=) operator because the
 
 **Syntax:**
 
-name_of_EventHandler = "The javaScript code / function which is required to be executed"
+name_of_EventHandler = "The javaScript code / function which is required to be execute
 
 
 
 
-# 19. API in Javascript 
-
-> An API stands for "Application Programming Interface". It's a way for two different programs, or software components, to communicate with each other.
-> APIs define the protocols and rules for how one component should interact with the other.
 
 
-
-
-  # 20. LOOP IN JS
+  # 19. LOOP IN JS
  
   **Loop**
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.

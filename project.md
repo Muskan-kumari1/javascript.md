@@ -8,8 +8,8 @@
 
 ## Table of contents##
 
-1. What Is javascript.
-2.  How to Set Up VsCode.
+1. What Is javascript?
+2.  How to Set Up VsCode?
 3.  What can Javascript do?
 4.  What makes Javascript unique?
 5.  How to use Javascript with HTML?
@@ -61,7 +61,7 @@
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
-           $ sudo apt install vscode .
+           $ sudo apt install vscode 
 
 - Step 6. Open VS Code.          
 

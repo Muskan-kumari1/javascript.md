@@ -314,14 +314,15 @@ The value stored in a variable can be changed during program execution.
 >Example:
 
 >javascript copy code
-// Define an array with some values
-let fruits = ["Apple", "Banana", "Cherry"];
+>// Define an array with some values
+>let fruits = ["Apple", "Banana", "Cherry"];
 
-// Accessing array elements using their index
-console.log(fruits[0]); // Outputs: Apple
-console.log(fruits[1]); // Outputs: Banana
-console.log(fruits[2]); // Outputs: Cherry
-In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
+>// Accessing array elements using their index
+>console.log(fruits[0]); // Outputs: Apple
+>console.log(fruits[1]); // Outputs: Banana
+>console.log(fruits[2]); // Outputs: Cherry
+>In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
+
 
 
 # 16. Conditional Statement in Javascript

@@ -261,6 +261,7 @@ The value stored in a variable can be changed during program execution.
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
 
 
+
 **Types**
 >1. Arithmetic Operators.
 >2. Logical Operators.
@@ -274,9 +275,11 @@ The value stored in a variable can be changed during program execution.
 >These include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), increment (++), and decrement (--).
 
 
+
 **2. Logical Operators.**
 >An operator that performs a logic operation on nodes, groups, or numbers.
 > AHDL logical operators are NOT ( ! ), AND ( & ), NAND ( !& ), OR ( # ), NOR ( !# ), XOR ( $ ), and XNOR ( !$ ).
+
 
 
 **3. Ternary Operators**.
@@ -284,9 +287,11 @@ The value stored in a variable can be changed during program execution.
 > It is written as “?:” and takes three operands; a logical condition, a value to return if true, and a value to return if false.
 
 
+
 **4. Assignment Operators.**.
 >An assignment operator assigns a value to its left operand based on the value of its right operand.
 > The simple assignment operator is equal ( = ), which assigns the value of its right operand to its left operand.
+
 
 
 **5. Comparison / Relational Operators.**
@@ -300,10 +305,13 @@ The value stored in a variable can be changed during program execution.
 >There are four methods in JavaScript for string concatenation: using the concat() method, using the '+' operator, using the array join() method, and using template literals.
 
 
+
+
 # 15. Array in Javascript
 
 >An array in JavaScript is a type of global object that is used to store data.
 >Arrays consist of an ordered collection or list containing zero or more data types, and use numbered indices starting from 0 to access specific items.
+
 
 
 
@@ -327,9 +335,6 @@ The value stored in a variable can be changed during program execution.
 >:- If proved true, performs a task.
 >If false checks another if condition.
 
-
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNTsTY9y-PgEwcYLN8X0zSNXU2xotRxxNjw&s)
- 
 
 
 

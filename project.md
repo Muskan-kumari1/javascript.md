@@ -312,6 +312,7 @@ The value stored in a variable can be changed during program execution.
 - In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
 # Example:
+
 ```bash
 javascript copy code
 // Define an array with some values
@@ -322,6 +323,7 @@ console.log(fruits[0]); // Outputs: Apple
 console.log(fruits[1]); // Outputs: Banana
 console.log(fruits[2]); // Outputs: Cherry
 In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
+
 ```
 
 

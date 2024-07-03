@@ -423,19 +423,18 @@ while (count <= 5) {
          }while(condition);
          
 ## Program              
-let text = "";
-let i = 0;
+```bash
+
+let count = 1;
+
+
 do {
-  text += i + "<br>";
-  i++;
-}
+  console.log(count);
+  count++;
+} while (count <= 5);
+```
  ## output
- do-while Loop
->* 0
->* 1
->2
->3
->4   
+1 2 3 4 5 
 
 ## for-of Loop
            for (let key in objVar) {

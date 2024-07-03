@@ -309,10 +309,19 @@ The value stored in a variable can be changed during program execution.
 
 # 15. Array in Javascript
 
->An array in JavaScript is a type of global object that is used to store data.
->Arrays consist of an ordered collection or list containing zero or more data types, and use numbered indices starting from 0 to access specific items.
+> In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
+>Example:
 
+>javascript copy code
+// Define an array with some values
+let fruits = ["Apple", "Banana", "Cherry"];
+
+// Accessing array elements using their index
+console.log(fruits[0]); // Outputs: Apple
+console.log(fruits[1]); // Outputs: Banana
+console.log(fruits[2]); // Outputs: Cherry
+In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
 
 
 # 16. Conditional Statement in Javascript

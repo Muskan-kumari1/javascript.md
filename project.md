@@ -179,7 +179,7 @@
 * Writes information to the browser console, good for debugging purposos.
 
   ```js
-  <script type = "text/javascript">
+  <script type> = "text/javascript">
   
   console.log("Wscube javascript tutorials");
   ```
@@ -337,7 +337,6 @@ The value stored in a variable can be changed during program execution.
 
 **Event Handling**
 > When an event, consider pressing a keyboard key or clicking an element, occurs on a DOM or an HTML element, we can call the specific functions based on these events. Now, how does the HTML element know when to call the mentioned JavaScript code or JavaScript function? This is taken care of by the event handlers. The properties of DOM or HTML elements are called event handlers to control how an element should respond to a given event.
->The concept and operation of event handlers are summarised in the figure below:
 
 **event-and-event-handlers**
 

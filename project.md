@@ -31,7 +31,7 @@
 
 # 1.  What Is javascript
 
-> Javascript is an interpreted, client-side, event based, object-oritented scripting language.
+ - Javascript is an interpreted, client-side, event based, object-oritented scripting language.
 > 
 > Invented in 1995 at Netscape Corporation(Livescript).
 > 

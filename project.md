@@ -375,11 +375,12 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.
 >
 > **Types of Loop**
-  1. for Loop 
-  2. while Loops
-  3. do-while loop
-  4. for-of Loop
-  5. for-in   
+  1. for Loop
+  2. Infinite Loop
+  3. while Loop
+  4. do-while loop
+  5. for-of Loop
+  6. for-in   
 
 ## for Loop
    {
@@ -397,8 +398,11 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
    
 
  ## Infinite Loop:- 
--  A Loop that never ends.
-  
+-  while (true) {
+    console.log("This will print forever");
+}
+  ## Output
+  This loop will run indefinitely, continuously printing the message to the console.
   ## while Loop:-
                 while (condition) {
                 // do some work

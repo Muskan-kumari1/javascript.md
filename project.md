@@ -405,22 +405,16 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
                      }
                      
 ## Program              
-while (i < 10) {
-  text += "The number is " + i;
-  i++;
+```bash
+let count = 1;
+
+while (count <= 5) {
+  console.log(count);
+  count++;
 }
+```
  ## output
-while Loop
-The number is 0
-The number is 1
-The number is 2
-The number is 3
-The number is 4
-The number is 5
-The number is 6
-The number is 7
-The number is 8
-The number is 9
+1 2 3 4 5
 
 ## do-while Loop
 

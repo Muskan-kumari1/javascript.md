@@ -305,13 +305,13 @@ The value stored in a variable can be changed during program execution.
 >An array in JavaScript is a type of global object that is used to store data.
 >Arrays consist of an ordered collection or list containing zero or more data types, and use numbered indices starting from 0 to access specific items.
 
-![image](https://cdn.prod.website-files.com/5f64c4e9139e46231d773b0a/6372cbfb366d15c499ffbe4a_1_bFIR37BFmQcxyPd7UPs6xg%20(1).png)
 
 
 # 16. Conditional Statement in Javascript
 
 **What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
+
 
 
 # 17. Types of Conditional Statements in Javascipt

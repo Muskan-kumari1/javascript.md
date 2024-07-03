@@ -398,9 +398,11 @@ name_of_EventHandler = "The javaScript code / function which is required to be e
    
 
  ## Infinite Loop:- 
--  while (true) {
+ ```bash
+  while (true) {
     console.log("This will print forever");
 }
+```
   ## Output
   This loop will run indefinitely, continuously printing the message to the console.
   ## while Loop:-
@@ -441,37 +443,21 @@ do {
 1 2 3 4 5 
 
 ## for-of Loop
-           for (let key in objVar) {
-           //do some work
-             }
-## Program              
-const cars = ["BMW", "Volvo", "Mini"];
-
-let text = "";
-for (let x of cars) {
-  text += x;
+         for (const element of iterable) {
+    // code block to be executed
 }
- ## output
- The for of statement loops through the values of any iterable object:
-
-BMW
-Volvo
-Mini
-## for-in Loop
-              for (let key in objVar) {
-                //do some work
-                 }         
 ## Program              
-const person = {fname:"John", lname:"Doe", age:25};
+```bash
+const fruits = ['apple', 'banana', 'cherry'];
 
-let text = "";
-for (let x in person) {
-  text += person[x];
+for (const fruit of fruits) {
+    console.log(fruit);
 }
+```
  ## output
-The for in statement loops through the properties of an object:
-
-John Doe 25
+ apple
+banana
+cherry
 
  ## Conclusion
 In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 

@@ -314,11 +314,10 @@ The value stored in a variable can be changed during program execution.
 # Example:
 
 ```bash
-javascript copy code
-// Define an array with some values
+
+
 let fruits = ["Apple", "Banana", "Cherry"];
 
-// Accessing array elements using their index
 console.log(fruits[0]); // Outputs: Apple
 console.log(fruits[1]); // Outputs: Banana
 console.log(fruits[2]); // Outputs: Cherry

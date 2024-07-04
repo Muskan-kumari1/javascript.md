@@ -303,6 +303,7 @@ The value stored in a variable can be changed during program execution.
 
 # 14. String Concatenation in Javascript
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
+  
   ## Example
   
   ```bash
@@ -314,12 +315,13 @@ let fullName = firstName + ' ' + lastName;
 
 console.log(fullName); 
 
-```
-## Output
+```bash
+##  Output
+
 Muskan Thakur
 
 
-# 15. Array in Javascript
+## 15. Array in Javascript
 
 - In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
@@ -333,7 +335,7 @@ console.log(fruits[1]); // Outputs: Banana
 console.log(fruits[2]); // Outputs: Cherry
 In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
 
-```
+```bash
 ## Output
  Apple
  Banana

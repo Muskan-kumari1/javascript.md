@@ -351,6 +351,7 @@ In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fr
 
 # 18.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
+- Syntax
 ``` bash
 element.addEventListener(event, function);
 ```

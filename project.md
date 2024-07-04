@@ -350,25 +350,34 @@ In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fr
 
 
 # 18.Event Handling in Javascript   
+- Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
+``` bash
+element.addEventListener(event, function);
+```
+- element: The DOM element to which the event listener is attached.
+- event: A string representing the event type ( 'click', 'mouseover').
+- function: The function to be called when the event occurs.
+ ## Example
+## HTML
+```bash
+<body>
+  <button id="myButton">Click Me!</button>
 
-**Event Handling**
-> When an event, consider pressing a keyboard key or clicking an element, occurs on a DOM or an HTML element, we can call the specific functions based on these events. Now, how does the HTML element know when to call the mentioned JavaScript code or JavaScript function? This is taken care of by the event handlers. The properties of DOM or HTML elements are called event handlers to control how an element should respond to a given event.
-
-**event-and-event-handlers**
-
-> As shown in the above figure, when a user clicks a specific mouse button or types a specific keyword into the browser, that action activates the corresponding event handler for that HTML  element. The browser then shows the end users the effects of the actions that were carried out on the webpage by the JavaScript code that was executed by the event handler.
-
-Event handlers can be assigned directly using the equal (=) operator because they are attributes of HTML/DOM elements as well. The syntax is as follows:
-
-**Syntax:**
-
-name_of_EventHandler = "The javaScript code / function which is required to be execute
+  <script src="script.js"></script>
+</body>
+```
+## JavaScript (script.js)
+```bash
+const button = document.getElementById('myButton');
 
 
+function handleClick() {
+  alert('Button was clicked!');
+}
 
+button.addEventListener('click', handleClick);
 
-
-
+```
   # 19. LOOP IN JS
  
   **Loop**

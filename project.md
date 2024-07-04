@@ -312,9 +312,9 @@ let lastName = 'Thakur';
 
 let fullName = firstName + ' ' + lastName;
 
-console.log(fullName); 
+console.log(fullName);
+``
 
-```
 
 ## Output
 
@@ -335,7 +335,7 @@ console.log(fruits[1]); // Outputs: Banana
 console.log(fruits[2]); // Outputs: Cherry
 In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
 
-```bash
+```
 ## Output
  Apple
  Banana

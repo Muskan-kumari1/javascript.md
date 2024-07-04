@@ -304,14 +304,17 @@ The value stored in a variable can be changed during program execution.
 # 14. String Concatenation in Javascript
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
   ## Example
+  
   ```bash
+  
 let firstName = 'Muskan';
 let lastName = 'Thakur';
 
 let fullName = firstName + ' ' + lastName;
 
 console.log(fullName); 
-  ```
+
+```
 ## Output
 Muskan Thakur
 
@@ -323,8 +326,6 @@ Muskan Thakur
 # Example:
 
 ```bash
-
-
 let fruits = ["Apple", "Banana", "Cherry"];
 
 console.log(fruits[0]); // Outputs: Apple
@@ -333,6 +334,10 @@ console.log(fruits[2]); // Outputs: Cherry
 In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
 
 ```
+## Output
+ Apple
+ Banana
+ Cherry
 
 
 # 16. Conditional Statement in Javascript

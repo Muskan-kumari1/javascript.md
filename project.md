@@ -302,9 +302,18 @@ The value stored in a variable can be changed during program execution.
 
 
 # 14. String Concatenation in Javascript
->There are four methods in JavaScript for string concatenation: using the concat() method, using the '+' operator, using the array join() method, and using template literals.
+- String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
+  ## Example
+  ```bash
+let firstName = 'Muskan';
+let lastName = 'Thakur';
 
+let fullName = firstName + ' ' + lastName;
 
+console.log(fullName); 
+  ```
+## Output
+Muskan Thakur
 
 
 # 15. Array in Javascript

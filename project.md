@@ -51,17 +51,17 @@
   ![vs](https://code.visualstudio.com/assets/updates/1_68/vscode-dev-download.png)
 
 
-
-- Step 3:- After completion VS Code, Check your download Folder.
-- Step 4:- Open Terminal in Linux or  for shortcut click (ctrl + alt + t)
-- Step 5:- Check if the system up-to-date using following command :
+- Step 3:- Select debian package for linux system.
+- Step 4:- After completion VS Code, Check your download Folder.
+- Step 5- Open Terminal in Linux or  for shortcut click (ctrl + alt + t)
+- Step 6:- Check if the system up-to-date using following command :
 
     
                 $ sudo apt-get update
 - Step 6. After update system Now you can Install VS Code using the following command:
 
   
-           $ sudo apt install vscode 
+           $ sudo dpkg -i vscode_package(Downlaoded)
 
 - Step 6. Open VS Code.          
 

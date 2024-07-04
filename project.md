@@ -152,7 +152,7 @@
 
 
 
-   # 9. important funtions of Javascript.
+   # 9. important functions of Javascript.
    
 >1. alert() function
 >2. confirm() function

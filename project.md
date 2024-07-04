@@ -306,11 +306,12 @@ The value stored in a variable can be changed during program execution.
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
    ## Example
   
-
+```bash
 let firstName = 'Muskan';
 let lastName = 'Thakur';
 let fullName = firstName + ' ' + lastName;
 console.log(fullName);
+```
 
 
 

@@ -16,7 +16,7 @@
 6.  HOW to use internal Javascript?
 7.  How to use external Javascript?
 8.  Functions in Javascript.
-9.  important funtions of Javascript.
+9.  important functions of Javascript.
 10.  Variable in Javascript.
 11.  Scope and Lite time of a variablethe HTML Element.
 12. DOM(Document Object Method) . 

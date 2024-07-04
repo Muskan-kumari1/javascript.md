@@ -18,7 +18,7 @@
 8.  Functions in Javascript.
 9.  important functions of Javascript.
 10.  Variable in Javascript.
-11.  Scope and Lite time of a variablethe HTML Element.
+11.  Scope and Lite time of a variable the HTML Element.
 12. DOM(Document Object Method) . 
 13.  What is an Operator and Type of Operators in Js.
 14. String Concatenation in Javascript.

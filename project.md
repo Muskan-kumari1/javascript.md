@@ -31,15 +31,12 @@
 
 # 1.  What Is javascript
 
- - Javascript is an interpreted, client-side, event based, object-oritented scripting language.
-> 
-> Invented in 1995 at Netscape Corporation(Livescript).
-> 
-> Javascript programs are run by an interpreter built into the user's web browser.
-> 
-> It is a case-sensitive language.
+-Javascript is an interpreted, client-side, event based, object-oritented scripting language.
+- Invented in 1995 at Netscape Corporation(Livescript).
 
+- Javascript programs are run by an interpreter built into the user's web browser.
 
+-It is a case-sensitive language.
 
 
 # 2.  How to Set Up VsCode
@@ -75,10 +72,10 @@
 <br>
 
 # 3.  What can Javascript do?
-**Interact with Users**: It can respond to user actions like clicking buttons, filling out forms, or moving the mouse. This makes websites interactive, allowing things like dropdown menus, image sliders, and games.
-**Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.*
-**Form Validation**: JavaScript can check data in forms to ensure correct and complete information is submitted.
-**Responsive Design**: JavaScript can adjust the page layout based on screen size or device, making the website look good on both mobile and desktop.
+- **Interact with Users**: It can respond to user actions like clicking buttons, filling out forms, or moving the mouse. This makes websites interactive, allowing things like dropdown menus, image sliders, and games.
+- **Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.*
+- **Form Validation**: JavaScript can check data in forms to ensure correct and complete information is submitted.
+- **Responsive Design**: JavaScript can adjust the page layout based on screen size or device, making the website look good on both mobile and desktop.
 
 # 4. How to use Javascript with HTML?
 **Include JavaScript in HTML**: You can write JavaScript code directly inside an HTML file using the <script> tag.

@@ -409,7 +409,8 @@ button.addEventListener('click', handleClick);
   6. for-in   
 
 ## for Loop
- ```bash  
+ ```bash
+    let i =1;
    for (int i = 1; i <= 5; i++) 
      {
        console.log("Hello world");

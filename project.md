@@ -73,15 +73,15 @@
 
 # 3.  What can Javascript do?
 - **Interact with Users**: It can respond to user actions like clicking buttons, filling out forms, or moving the mouse. This makes websites interactive, allowing things like dropdown menus, image sliders, and games.
+  
 - **Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.*
+  
 - **Form Validation**: JavaScript can check data in forms to ensure correct and complete information is submitted.
+  
 - **Responsive Design**: JavaScript can adjust the page layout based on screen size or device, making the website look good on both mobile and desktop.
 
 # 4. How to use Javascript with HTML?
-**Include JavaScript in HTML**: You can write JavaScript code directly inside an HTML file using the <script> tag.
-
-**Place the JavaScript Code**: Insert your JavaScript code between the <script> tags, usually inside the <body> section.
-
+    Using the <script> tag integrates JavaScripts into an HTML page .this tag allows to directly write JavaScripts code within your HTML file.
 # 5. HOW to use internal Javascript?
 
 > Javascript can be inserted into documents by using the SCRIPT tag.

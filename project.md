@@ -31,12 +31,12 @@
 
 # 1.  What Is javascript
 
--Javascript is an interpreted, client-side, event based, object-oritented scripting language.
+- Javascript is an interpreted, client-side, event based, object-oritented scripting language.
 - Invented in 1995 at Netscape Corporation(Livescript).
 
 - Javascript programs are run by an interpreter built into the user's web browser.
 
--It is a case-sensitive language.
+- It is a case-sensitive language.
 
 
 # 2.  How to Set Up VsCode

@@ -333,7 +333,6 @@ let fruits = ["Apple", "Banana", "Cherry"];
 console.log(fruits[0]); 
 console.log(fruits[1]);
 console.log(fruits[2]); 
-In this example, fruits[0] accesses "Apple", fruits[1] accesses "Banana", and fruits[2] accesses "Cherry".
 
 ```
 ## Output

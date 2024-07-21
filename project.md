@@ -409,12 +409,12 @@ button.addEventListener('click', handleClick);
   6. for-in   
 
 ## for Loop
-   {
-           
-           for (int i = 1; i <= 5; i++) 
-            console.log("Hello world");
-            
-   } 
+ ```bash  
+   for (int i = 1; i <= 5; i++) 
+     {
+       console.log("Hello world");
+     }
+   ```
    # Output 
    Hello world
    Hello world
@@ -440,12 +440,13 @@ button.addEventListener('click', handleClick);
 ```bash
 let count = 1;
 
-while (count <= 5) {
+while (count <= 5)
+{
   console.log(count);
   count++;
 }
 ```
- ## output
+## output
 1 2 3 4 5
 
 ## do-while Loop
@@ -465,7 +466,7 @@ do {
   count++;
 } while (count <= 5);
 ```
- ## output
+## output
 1 2 3 4 5 
 
 ## for-of Loop
@@ -489,9 +490,9 @@ cherry
 In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 
 This exercise not only demonstrated the power of combining these three technologies but also emphasized key programming concepts such as:
 
-
-
-  # Thank you!
+# Reference link
+https://www.w3schools.com/js/
+# Thank you!
             .  
 
 

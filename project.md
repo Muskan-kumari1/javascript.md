@@ -185,23 +185,7 @@ It is the basic unit of storage in program.
 The value stored in a variable can be changed during program execution.
 
 
-
-
-# 10. Scope and Lite time of a variable
-
-**Scope of a variable**
->*Variables declared within a function are local to that function.
->*Variables declared outside of any function are global variables.
-
-
-**Life time of a variable**
->*Local variable's life time is within the block of it's declaration.
->*Global variable's life time is throughtout the program.
-
-
-
-
-# 11. DOM(Document Object Method)
+# 10. DOM(Document Object Method)
 
 > When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
 
@@ -215,16 +199,7 @@ The value stored in a variable can be changed during program execution.
 ## Selecting with tag
 - document.getElementsByTagName(“p”)
 
-## Properties
--  tagName : returns tag for element nodes
-- innerText : returns the text content of the element and all its children
-- innerHTML : returns the plain text or HTML contents in the element  
-- textContent : returns textual content even for hidden elements. 
-
-
-
-
-# 12.  What is an Operator and Type of Operators in Js
+# 11.  What is an Operator and Type of Operators in Js
 
 **Operator**
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
@@ -261,7 +236,7 @@ The value stored in a variable can be changed during program execution.
 
 
 
-# 13. String Concatenation in Javascript
+# 12. String Concatenation in Javascript
 
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
    ## Example
@@ -273,15 +248,12 @@ let fullName = firstName + ' ' + lastName;
 console.log(fullName);
 ```
 
-
-
-
 ## Output
 
 Muskan Thakur
 
 
-## 14. Array in javascripts
+## 13. Array in javascripts
 
 - In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
@@ -301,14 +273,14 @@ console.log(fruits[2]);
  Cherry
 
 
-# 15. Conditional Statement in Javascript
+# 14. Conditional Statement in Javascript
 
 **What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
 
 
-# 16. Types of Conditional Statements in Javascipt
+# 15. Types of Conditional Statements in Javascipt
  
 **If**
 >:- If proved true, performs a function or displays information.
@@ -324,7 +296,7 @@ console.log(fruits[2]);
 
 
 
-# 17.Event Handling in Javascript   
+# 16.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
 - Syntax
 ``` bash
@@ -354,7 +326,7 @@ function handleClick() {
 button.addEventListener('click', handleClick);
 
 ```
-  # 18. LOOP IN JS
+# 17. LOOP IN JS
  
   **Loop**
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.

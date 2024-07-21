@@ -133,31 +133,31 @@
 **alert() functioin**
 * It is used to alert the user that something has happened.
   
-  ```js
+ ```js
      <script type = "text/javascript">
        alert("Welcome to Ws cube");
      </script>
-  ```
+ ```
 
 **console.log()**
 * Writes information to the browser console, good for debugging purposos.
 
-  ```js
+ ```js
   <script type> = "text/javascript">
   
   console.log("Wscube javascript tutorials");
-  ```
+ ```
 **document.write() function**
   
 * document.write(): write directly to the HTML document.
   
-  ```js
+```js
   <script type ="text/javascript">
     
   document.write("Wscube Tech");
     
   </script>
-  ```
+```
 
 **Prompt() function**
 

@@ -75,38 +75,17 @@
 <br>
 
 # 3.  What can Javascript do?
+**Interact with Users**: It can respond to user actions like clicking buttons, filling out forms, or moving the mouse. This makes websites interactive, allowing things like dropdown menus, image sliders, and games.
+**Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.*
+**Form Validation**: JavaScript can check data in forms to ensure correct and complete information is submitted.
+**Responsive Design**: JavaScript can adjust the page layout based on screen size or device, making the website look good on both mobile and desktop.
 
-> Javascript can dynamically modify and HTML page.
->
-> Javascript can vaildate user input Javascript can vaildate user input.
->
-> Javascript can be used to create cookies.
->
-> Javascript is a full-featured programming language.
->
-> Javascript user interaction does not require any communication with the server.
+# 4. How to use Javascript with HTML?
+**Include JavaScript in HTML**: You can write JavaScript code directly inside an HTML file using the <script> tag.
 
+**Place the JavaScript Code**: Insert your JavaScript code between the <script> tags, usually inside the <body> section.
 
-# 4. What makes Javascript unique?
-
-> Support by all major browsers and enabled by default.
->
-> Complex things are done simply.
->
-> Full intergration with HTML/CSS.
-
-
-# 5. How to use Javascript with HTML?
-
->You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code.
->
->The <script> tag can be placed in the <head> section of your HTML or in the <body> section, depending on when you want the JavaScript to load.
->
->Generally, JavaScript code can go inside the document <head> section in order to keep it contained and out of the main content of your HTML document.
->
->However, if your script needs to run at a certain point within a page’s layout when using document.write() to generate content, you should put it at the point where it should be called, usually within the <body> section.
-
-# 6. HOW to use internal Javascript?
+# 5. HOW to use internal Javascript?
 
 > Javascript can be inserted into documents by using the SCRIPT tag.
 >
@@ -120,7 +99,7 @@
 
 
 
-# 7. How to use external Javascript?
+# 6. How to use external Javascript?
 
    To use the pre-defined programs of any Javascript library.
 
@@ -130,18 +109,16 @@
 
 
 
-  # 8. Functions in Javascript
+# 7. Functions in Javascript
   
 >**Function**
 > Functions are group of code or program which is used more often.
 >It leads programming to code resusability and clear code.
->
->
+
 >**Types**
 >1. Pre defined Function.
 >2. User defined Function.
->
->
+
 **1.Pre defined Function**.
 >:- Such functions one defined at the time of making of any language.
 
@@ -152,7 +129,7 @@
 
 
 
-   # 9. important functions of Javascript.
+# 8. important functions of Javascript.
    
 >1. alert() function
 >2. confirm() function
@@ -169,11 +146,6 @@
        alert("Welcome to Ws cube");
      </script>
   ```
-
-**confirm() function**
-  
-* Opens up a confirm/cancel dialog and returns true/ false depending on user's click.
-
 
 **console.log()**
 * Writes information to the browser console, good for debugging purposos.
@@ -208,7 +180,7 @@ Prompt(msg,default): create an dialogue for user input.
 
 
     
- # 10. Variable in Javascript
+ # 9. Variable in Javascript
 
 **What is a Variable**
 Variables are Containers which hold reusable data.
@@ -218,7 +190,7 @@ The value stored in a variable can be changed during program execution.
 
 
 
-# 11. Scope and Lite time of a variable
+# 10. Scope and Lite time of a variable
 
 **Scope of a variable**
 >*Variables declared within a function are local to that function.
@@ -232,11 +204,11 @@ The value stored in a variable can be changed during program execution.
 
 
 
-# 12. DOM(Document Object Method)
+# 11. DOM(Document Object Method)
 
 > When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
 
-> 
+
 ## Selecting with id
 - document.getElementById(“myld")
   
@@ -255,7 +227,7 @@ The value stored in a variable can be changed during program execution.
 
 
 
-# 13.  What is an Operator and Type of Operators in Js
+# 12.  What is an Operator and Type of Operators in Js
 
 **Operator**
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
@@ -292,7 +264,7 @@ The value stored in a variable can be changed during program execution.
 
 
 
-# 14. String Concatenation in Javascript
+# 13. String Concatenation in Javascript
 
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
    ## Example
@@ -312,7 +284,7 @@ console.log(fullName);
 Muskan Thakur
 
 
-## 15. Array in javascripts
+## 14. Array in javascripts
 
 - In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
@@ -332,14 +304,14 @@ console.log(fruits[2]);
  Cherry
 
 
-# 16. Conditional Statement in Javascript
+# 15. Conditional Statement in Javascript
 
 **What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
 
 
-# 17. Types of Conditional Statements in Javascipt
+# 16. Types of Conditional Statements in Javascipt
  
 **If**
 >:- If proved true, performs a function or displays information.
@@ -355,7 +327,7 @@ console.log(fruits[2]);
 
 
 
-# 18.Event Handling in Javascript   
+# 17.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
 - Syntax
 ``` bash
@@ -385,7 +357,7 @@ function handleClick() {
 button.addEventListener('click', handleClick);
 
 ```
-  # 19. LOOP IN JS
+  # 18. LOOP IN JS
  
   **Loop**
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.
@@ -395,9 +367,7 @@ button.addEventListener('click', handleClick);
   2. Infinite Loop
   3. while Loop
   4. do-while loop
-  5. for-of Loop
-  6. for-in   
-
+  
 ## for Loop
  ```bash
     let i =1;
@@ -422,6 +392,7 @@ button.addEventListener('click', handleClick);
 ```
   ## Output
   This loop will run indefinitely, continuously printing the message to the console.
+  
   ## while Loop:-
                 while (condition) {
                 // do some work
@@ -456,34 +427,16 @@ do {
   console.log(count);
   count++;
 } while (count <= 5);
+
 ```
 ## output
 1 2 3 4 5 
-
-## for-of Loop
-         for (const element of iterable) {
-    // code block to be executed
-}
-## Program              
-```bash
-const fruits = ['apple', 'banana', 'cherry'];
-
-for (const fruit of fruits) {
-    console.log(fruit);
-}
-```
- ## output
- apple
-banana
-cherry
-
  ## Conclusion
 In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 
 This exercise not only demonstrated the power of combining these three technologies but also emphasized key programming concepts such as:
 
 # Reference link
 https://www.w3schools.com/js/
-# Thank you!
             .  
 
 

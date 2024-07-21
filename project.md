@@ -265,11 +265,9 @@ The value stored in a variable can be changed during program execution.
 **Types**
 >1. Arithmetic Operators.
 >2. Logical Operators.
->3. Ternary Operators.
->4. Assignment Operators.
->5. Comparison / Relational Operators.
->
->
+>3. Assignment Operators.
+>4. Comparison / Relational Operators.
+
 **1. Artithmetic Operators**.
 >Javascript arithmetic operators are used to perform mathematical calculations between variables and/or values.
 >These include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), increment (++), and decrement (--).
@@ -281,20 +279,13 @@ The value stored in a variable can be changed during program execution.
 > AHDL logical operators are NOT ( ! ), AND ( & ), NAND ( !& ), OR ( # ), NOR ( !# ), XOR ( $ ), and XNOR ( !$ ).
 
 
-
-**3. Ternary Operators**.
->An alternative to the if/else statement, the ternary operator allows JavaScript developers to write concise conditional statements.
-> It is written as “?:” and takes three operands; a logical condition, a value to return if true, and a value to return if false.
-
-
-
-**4. Assignment Operators.**.
+**3. Assignment Operators.**.
 >An assignment operator assigns a value to its left operand based on the value of its right operand.
 > The simple assignment operator is equal ( = ), which assigns the value of its right operand to its left operand.
 
 
 
-**5. Comparison / Relational Operators.**
+**4. Comparison / Relational Operators.**
 >Relational operators compare two operands and return true or false depending on the validity of the comparison.
 >The most common relational operators are: > (greater than) < (less than)
 

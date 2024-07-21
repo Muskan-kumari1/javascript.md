@@ -82,8 +82,8 @@
 
 # 4. How to use Javascript with HTML?
 
-    Using the <script> tag integrates JavaScripts into an HTML page .this tag allows to directly write JavaScripts code within your HTML file.
-    
+   Using the <script> tag integrates JavaScripts into an HTML page .this tag allows to directly write JavaScripts code within your HTML file.
+      
 # 5. HOW to use internal Javascript?
 
 **Internal JavaScript**: Code is written directly within an HTML file, inside the <script> tags.

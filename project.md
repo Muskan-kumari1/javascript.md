@@ -6,27 +6,27 @@
                                                                  
 
 
-## Table of contents##
+## Table of contents
 
-1. What Is javascript?
-2.  How to Set Up VsCode?
-3.  What can Javascript do?
-4.  What makes Javascript unique?
-5.  How to use Javascript with HTML?
-6.  HOW to use internal Javascript?
-7.  How to use external Javascript?
-8.  Functions in Javascript.
-9.  important functions of Javascript.
-10.  Variable in Javascript.
-11.  Scope and Lite time of a variable the HTML Element.
-12. DOM(Document Object Method) . 
-13.  What is an Operator and Type of Operators in Js.
-14. String Concatenation in Javascript.
-15. Array in Javascript.
-16. Conditional Statement in Javascript.
-17. Types of Conditional Statements in Javascipt.
- 18. Event Handling in Javascript.   
- 19. Loop in Javascript.
+1. What Is javascript
+2.  How to Set Up VsCode
+3.  What can Javascript do
+4.  What makes Javascript unique
+5.  How to use Javascript with HTML
+6.  HOW to use internal Javascript
+7.  How to use external Javascript
+8.  Functions in Javascript
+9.  important functions of Javascript
+10.  Variable in Javascript
+11.  Scope and Lite time of a variable the HTML Element
+12. DOM(Document Object Method)
+13.  What is an Operator and Type of Operators in Js
+14. String Concatenation in Javascript
+15. Array in Javascript
+16. Conditional Statement in Javascript
+17. Types of Conditional Statements in Javascipt
+ 18. Event Handling in Javascript 
+ 19. Loop in Javascript
     
 
 # 1.  What Is javascript
@@ -81,30 +81,25 @@
 - **Responsive Design**: JavaScript can adjust the page layout based on screen size or device, making the website look good on both mobile and desktop.
 
 # 4. How to use Javascript with HTML?
+
     Using the <script> tag integrates JavaScripts into an HTML page .this tag allows to directly write JavaScripts code within your HTML file.
+    
 # 5. HOW to use internal Javascript?
 
-> Javascript can be inserted into documents by using the SCRIPT tag.
->
-> The SCRIPT tag provides a block to write the Javascript programs.
->
+**Internal JavaScript**: Code is written directly within an HTML file, inside the <script> tags.
+
   ```js
   <script type = "text/javascript">
   //js code goes here
   <script>
   ```
 
-
-
 # 6. How to use external Javascript?
-
-   To use the pre-defined programs of any Javascript library.
+ **External JavaScript**: Code is written in a separate .js file and linked to an HTML file using the <script> tag with the src attribute. 
 
   ```js
   <script scr = "myscript.js"></script>
   ```
-
-
 
 # 7. Functions in Javascript
   

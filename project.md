@@ -190,7 +190,8 @@ The value stored in a variable can be changed during program execution.
 let a=5;
 console.log(a);
 ,,,
-## Output
+
+** Output**
 5
 
 

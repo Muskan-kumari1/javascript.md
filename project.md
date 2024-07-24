@@ -192,7 +192,7 @@ let a=5;
 console.log(a);
 ```
 
-** Output**
+## Output
 5
 
 

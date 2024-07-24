@@ -104,7 +104,7 @@
 # 7. Functions in Javascript
   
 >**Function**
-> Functions are group of code or program which is used more often.
+>:- Functions are group of code or program which is used more often.
 >It leads programming to code resusability and clear code.
 
 >**Types**
@@ -130,7 +130,7 @@
 >5. prompt() function
 > 
 
-**alert() functioin**
+**alert() function**
 * It is used to alert the user that something has happened.
   
  ```js

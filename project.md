@@ -18,14 +18,13 @@
 8.  Functions in Javascript
 9.  important functions of Javascript
 10.  Variable in Javascript
-11. DOM(Document Object Method)
-12.  What is an Operator and Type of Operators in Js
-13. String Concatenation in Javascript
-14. Array in Javascript
-15. Conditional Statement in Javascript
-16. Types of Conditional Statements in Javascipt
-17. Event Handling in Javascript 
-18. Loop in Javascript
+11. What is an Operator and Type of Operators in Js
+12. String Concatenation in Javascript
+13. Array in Javascript
+14. Conditional Statement in Javascript
+15. Types of Conditional Statements in Javascipt
+16. Event Handling in Javascript 
+17. Loop in Javascript
     
 
 # 1.  What Is javascript
@@ -201,21 +200,9 @@ console.log(age);    // Output: 30
 console.log(name);   // Output: Raj
 ,,,
 
-# 11. DOM(Document Object Model)
-
-> When a web page is loaded, the browser creates a Document Object Model (DOM)of the page.
 
 
-## Selecting with id
-- document.getElementById(“myld")
-  
-## Selecting with class
-- document.getElementsByClass Name("myclass)
-  
-## Selecting with tag
-- document.getElementsByTagName(“p”)
-
-# 12.  What is an Operator and Type of Operators in Js
+# 11.  What is an Operator and Type of Operators in Js
 
 **Operator**
 > :- An operator is a symbol that tell the compiler which arithmetic or logical operation to be performed between the respective operands.
@@ -252,7 +239,7 @@ console.log(name);   // Output: Raj
 
 
 
-# 13. String Concatenation in Javascript
+# 12. String Concatenation in Javascript
 
 - String concatenation in JavaScript is the process of combining two or more strings into one. This can be done using the + operator or template literals.
    ## Example
@@ -269,7 +256,7 @@ console.log(fullName);
 Muskan Thakur
 
 
-## 14. Array in javascripts
+## 13. Array in javascripts
 
 - In JavaScript, an array is a variable that can hold multiple values, each accessed by an index number starting from 0.
 
@@ -289,14 +276,14 @@ console.log(fruits[2]);
  Cherry
 
 
-# 15. Conditional Statement in Javascript
+# 14. Conditional Statement in Javascript
 
 **What are Conditional Statement**
 > Coditional Statements(Control Statements) used to change the flow of the Program's execution.
 
 
 
-# 16. Types of Conditional Statements in Javascipt
+# 15. Types of Conditional Statements in Javascipt
  
 **If**
 >:- If proved true, performs a function or displays information.
@@ -312,7 +299,7 @@ console.log(fruits[2]);
 
 
 
-# 17.Event Handling in Javascript   
+# 16.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
 - Syntax
 ``` bash
@@ -342,7 +329,7 @@ function handleClick() {
 button.addEventListener('click', handleClick);
 
 ```
-# 18. LOOP IN JS
+# 17. LOOP IN JS
  
   **Loop**
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.

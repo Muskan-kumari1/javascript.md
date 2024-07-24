@@ -311,7 +311,7 @@ if (number > 0) {
 
 ```
 ## Output
-The number is positivehe number is positive
+The number is positive 
 
 # 16.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:

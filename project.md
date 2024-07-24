@@ -146,6 +146,9 @@
   <script type> = "text/javascript">
   
   console.log("Wscube javascript tutorials");
+
+</script>
+
  ```
 **document.write() function**
   

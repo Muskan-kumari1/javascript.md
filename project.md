@@ -186,10 +186,11 @@ It is the basic unit of storage in program.
 The value stored in a variable can be changed during program execution.
 
 **Example**
+
 ```bash
 let a=5;
 console.log(a);
-,,,
+```
 
 ** Output**
 5

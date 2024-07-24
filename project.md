@@ -110,19 +110,25 @@
 **1.Pre defined Function**.
 >:- Such functions one defined at the time of making of any language.
 
+```bash
+console.log("Hlo Wrold");
+```
 
 **2.User defined Function**.
 >:- Such function are defined by users according to their needs.
->**Example**
-1.function greet(name) {
-    return "Namaste, " + name + "!";
+## Example
+
+```bash
+function greetUser(name) {
+    console.log("Hello, " + name + "!");
 }
 
-let message = greet("Amit");
-console.log(message); // Output: Namaste, Amit!
 
+greetUser("Muskan"); 
 
-
+```
+## Output
+Output: Hello, Muskan!
 
 # 9. important functions of Javascript.
    
@@ -138,7 +144,7 @@ console.log(message); // Output: Namaste, Amit!
   
  ```js
      <script type = "text/javascript">
-       alert("Welcome to Ws cube");
+       alert("Hlo wrold");
      </script>
  ```
 

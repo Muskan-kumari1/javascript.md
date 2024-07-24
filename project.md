@@ -187,6 +187,20 @@ Variables are Containers which hold reusable data.
 It is the basic unit of storage in program.
 The value stored in a variable can be changed during program execution.
 
+**Example**
+,,,js
+let age = 25;         // Variable 'age' ko 25 value assign ki gayi
+let name = "Amit";    // Variable 'name' ko "Amit" value assign ki gayi
+
+console.log(age);    // Output: 25
+console.log(name);   // Output: Amit
+
+age = 30;            // Variable 'age' ki value ko 30 se update kiya
+name = "Raj";        // Variable 'name' ki value ko "Raj" se update kiya
+
+console.log(age);    // Output: 30
+console.log(name);   // Output: Raj
+,,,
 
 # 10. DOM(Document Object Method)
 

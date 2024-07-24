@@ -297,8 +297,21 @@ console.log(fruits[2]);
 >:- If proved true, performs a task.
 >If false checks another if condition.
 
+## Example 
+```bash
+let number = 5; 
 
+if (number > 0) {
+    console.log("The number is positive.");
+} else if (number < 0) {
+    console.log("The number is negative.");
+} else {
+    console.log("The number is zero.");
+}
 
+```
+## Output
+The number is positivehe number is positive
 
 # 16.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:

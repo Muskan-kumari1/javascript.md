@@ -115,6 +115,13 @@
 
 **2.User defined Function**.
 >:- Such function are defined by users according to their needs.
+>**Example**
+function greet(name) {
+    return "Namaste, " + name + "!";
+}
+
+let message = greet("Amit");
+console.log(message); // Output: Namaste, Amit!
 
 
 

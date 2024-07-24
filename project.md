@@ -319,9 +319,7 @@ The number is positive
 ``` bash
 element.addEventListener(event, function);
 ```
-- element: The DOM element to which the event listener is attached.
-- event: A string representing the event type ( 'click', 'mouseover').
-- function: The function to be called when the event occurs.
+
  ## Example
 ## HTML
 ```bash

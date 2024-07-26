@@ -220,12 +220,7 @@ console.log(a);
 
 
 
-**2. Logical Operators.**
->An operator that performs a logic operation on nodes, groups, or numbers.
-> AHDL logical operators are NOT ( ! ), AND ( & ), NAND ( !& ), OR ( # ), NOR ( !# ), XOR ( $ ), and XNOR ( !$ ).
-
-
-**3. Assignment Operators.**.
+**2. Assignment Operators.**.
 >An assignment operator assigns a value to its left operand based on the value of its right operand.
 > The simple assignment operator is equal ( = ), which assigns the value of its right operand to its left operand.
 

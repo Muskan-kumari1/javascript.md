@@ -21,10 +21,8 @@
 11. What is an Operator and Type of Operators in Js
 12. String Concatenation in Javascript
 13. Array in Javascript
-14. Conditional Statement in Javascript
-15. Types of Conditional Statements in Javascipt
-16. Event Handling in Javascript 
-17. Loop in Javascript
+14. Event Handling in Javascript 
+15. Loop in Javascript
     
 
 # 1.  What Is javascript
@@ -277,41 +275,7 @@ console.log(fruits[2]);
  Cherry
 
 
-# 14. Conditional Statement in Javascript
 
-**What are Conditional Statement**
-> Coditional Statements(Control Statements) used to change the flow of the Program's execution.
-
-
-
-# 15. Types of Conditional Statements in Javascipt
- 
-**If**
->:- If proved true, performs a function or displays information.
-
-**If-else**
->:- It proved true, performs a task.
->If false performs any other task.
-
-**If-elseif**
->:- If proved true, performs a task.
->If false checks another if condition.
-
-## Example 
-```bash
-let number = 5; 
-
-if (number > 0) {
-    console.log("The number is positive.");
-} else if (number < 0) {
-    console.log("The number is negative.");
-} else {
-    console.log("The number is zero.");
-}
-
-```
-## Output
-The number is positive 
 
 # 16.Event Handling in Javascript   
 - Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:

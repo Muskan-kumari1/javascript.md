@@ -210,9 +210,8 @@ console.log(a);
 
 **Types**
 >1. Arithmetic Operators.
->2. Logical Operators.
->3. Assignment Operators.
->4. Comparison / Relational Operators.
+>2. Assignment Operators.
+>3. Comparison / Relational Operators.
 
 **1. Artithmetic Operators**.
 >Javascript arithmetic operators are used to perform mathematical calculations between variables and/or values.
@@ -226,7 +225,7 @@ console.log(a);
 
 
 
-**4. Comparison / Relational Operators.**
+**3. Comparison / Relational Operators.**
 >Relational operators compare two operands and return true or false depending on the validity of the comparison.
 >The most common relational operators are: > (greater than) < (less than)
 

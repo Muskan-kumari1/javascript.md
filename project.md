@@ -109,7 +109,7 @@
 >:- Such functions one defined at the time of making of any language.
 
 ```bash
-console.log("Hlo Wrold");
+console.log("Hello Wrold");
 ```
 
 **2.User defined Function**.
@@ -142,7 +142,7 @@ Output: Hello, Muskan!
   
  ```js
      <script type = "text/javascript">
-       alert("Hlo wrold");
+       alert("Hello wrold");
      </script>
  ```
 
@@ -152,7 +152,7 @@ Output: Hello, Muskan!
  ```js
   <script type> = "text/javascript">
   
-  console.log("Wscube javascript tutorials");
+  console.log("Hello World");
 
 </script>
 
@@ -164,7 +164,7 @@ Output: Hello, Muskan!
 ```js
   <script type ="text/javascript">
     
-  document.write("Wscube Tech");
+  document.write("Hello World");
     
   </script>
 ```

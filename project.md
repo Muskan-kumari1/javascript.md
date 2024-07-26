@@ -28,7 +28,7 @@
 # 1.  What Is javascript
 
 - JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
-- Invented in 1995 at Netscape Corporation(Livescript).
+- Invented in 1995 at Netscape Corporation.
 
 - It is a case-sensitive language.
 

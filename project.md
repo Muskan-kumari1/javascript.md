@@ -134,8 +134,7 @@ Output: Hello, Muskan!
 >2. confirm() function
 >3. console.log() function
 >4. document.write() function
->5. prompt() function
-> 
+ 
 
 **alert() function**
 * It is used to alert the user that something has happened.
@@ -168,17 +167,6 @@ Output: Hello, Muskan!
     
   </script>
 ```
-
-**Prompt() function**
-
-Prompt(msg,default): create an dialogue for user input.
-
-  ```js
-  <script type ="text/javascript">
-    prompt("hello","Wscube");
-  </script>
-  ```
-
 
 
     

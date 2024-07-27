@@ -90,7 +90,7 @@
  **External JavaScript**: Code is written in a separate .js file and linked to an HTML file using the <script> tag with the src attribute. 
 
   ```js
-  <script scr = "myscript.js"></script>
+  <script src = "myscript.js"></script>
   ```
 
 # 8. Functions in Javascript

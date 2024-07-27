@@ -106,7 +106,7 @@
 **1.Pre defined Function**.
 - Predefined functions are built-in functions in a programming language that perform common tasks.
 ```bash
-console.log("Hello Wrold");
+console.log("Hello World");
 ```
 
 **2.User defined Function**.

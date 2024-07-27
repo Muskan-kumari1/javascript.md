@@ -28,8 +28,6 @@
 # 1.  What Is javascript
 
 - JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
-- Invented in 1995 at Netscape Corporation.
-
 - It is a case-sensitive language.
 
 
@@ -130,10 +128,9 @@ Output: Hello, Muskan!
 
 # 9. important functions of Javascript.
    
->1. alert() function
->2. confirm() function
->3. console.log() function
->4. document.write() function
+- 1. alert() function
+- 2. console.log() function
+- 3. document.write() function
  
 
 **alert() function**
@@ -361,9 +358,8 @@ do {
 ```
 ## output
 1 2 3 4 5 
- ## Conclusion
-In this project, we successfully built a simple yet functional calculator using HTML, CSS, and JavaScript. 
-This exercise not only demonstrated the power of combining these three technologies but also emphasized key programming concepts such as:
+## Conclusion
+JavaScript is a beginner-friendly language used to make web pages interactive. Its simple rules, instant feedback in web browsers, and many available resources make it easy to learn and useful for web development.
 
 # Reference link
 https://www.w3schools.com/js/

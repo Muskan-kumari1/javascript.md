@@ -137,7 +137,7 @@ Output: Hello, Muskan!
   
  ```js
      <script type = "text/javascript">
-       alert("Hello wrold");
+       alert("Hello world");
      </script>
  ```
 

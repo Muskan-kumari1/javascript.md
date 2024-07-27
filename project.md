@@ -95,23 +95,22 @@
 
 # 8. Functions in Javascript
   
->**Function**
->:- Functions are group of code or program which is used more often.
->It leads programming to code resusability and clear code.
+**Function**
+- Functions are group of code or program which is used more often.
+- It leads programming to code resusability and clear code.
 
->**Types**
->1. Pre defined Function.
->2. User defined Function.
+- **Types**
+- 1. Pre defined Function.
+- 2. User defined Function.
 
 **1.Pre defined Function**.
->:- Such functions one defined at the time of making of any language.
-
+- Predefined functions are built-in functions in a programming language that perform common tasks.
 ```bash
 console.log("Hello Wrold");
 ```
 
 **2.User defined Function**.
->:- Such function are defined by users according to their needs.
+- Such function are defined by users according to their needs.
 ## Example
 
 ```bash

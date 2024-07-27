@@ -99,9 +99,9 @@
 - Functions are group of code or program which is used more often.
 - It leads programming to code resusability and clear code.
 
-- **Types**
-- 1. Pre defined Function.
-- 2. User defined Function.
+ **Types**
+-  Pre defined Function.
+-  User defined Function.
 
 **1.Pre defined Function**.
 - Predefined functions are built-in functions in a programming language that perform common tasks.
@@ -127,9 +127,9 @@ Output: Hello, Muskan!
 
 # 9. important functions of Javascript.
    
-- 1. alert() function
-- 2. console.log() function
-- 3. document.write() function
+-  alert() function
+-  console.log() function
+-  document.write() function
  
 
 **alert() function**

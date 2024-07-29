@@ -21,8 +21,8 @@
 11. What is an Operator and Type of Operators in Js
 12. String Concatenation in Javascript
 13. Array in Javascript
-14. Event Handling in Javascript 
-15. Loop in Javascript
+14. Loop in Javascript
+
     
 
 # 1.  What Is javascript
@@ -66,7 +66,7 @@
 # 3.  What can Javascript do?
 - **Interact with Users**: It can respond to user actions like clicking buttons, filling out forms, or moving the mouse. This makes websites interactive, allowing things like dropdown menus, image sliders, and games.
   
-- **Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.*
+- **Update Web Pages**: JavaScript can change the text, images, and layout of a web page without needing to reload the whole page.
   
 - **Form Validation**: JavaScript can check data in forms to ensure correct and complete information is submitted.
   
@@ -254,36 +254,7 @@ console.log(fruits[2]);
 
 
 
-
-# 16.Event Handling in Javascript   
-- Event handling in JavaScript involves attaching event listeners to DOM elements to respond to various events. Here’s the syntax and an example for event handling:
-- Syntax
-``` bash
-element.addEventListener(event, function);
-```
-
- ## Example
-## HTML
-```bash
-<body>
-  <button id="myButton">Click Me!</button>
-
-  <script src="script.js"></script>
-</body>
-```
-## JavaScript (script.js)
-```bash
-const button = document.getElementById('myButton');
-
-
-function handleClick() {
-  alert('Button was clicked!');
-}
-
-button.addEventListener('click', handleClick);
-
-```
-# 17. LOOP IN JS
+# 14. LOOP IN JS
  
   **Loop**
 > Loops are handy, if you want to run the same code over and over again, each time with a different value.
